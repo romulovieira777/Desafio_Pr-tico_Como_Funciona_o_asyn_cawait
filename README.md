@@ -1,2 +1,4 @@
-# Desafio_Pr-tico_Como_Funciona_o_asyn_cawait
-Desafio Prático Como Funciona o asyn/cawait
+# Desafio Prático Como Funciona o asyn/cawait
+Desafio Prático Como Funciona o asyn/cawait - Digital Innovation One
+
+Link para o curso https://digitalinnovation.one/sign-in
